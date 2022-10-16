@@ -1,6 +1,8 @@
 ﻿using UnityEngine.Audio;
 using UnityEngine;
 
+//All scripts wrote and developed in conjuction with youtube.com @Brackeys, @JasonWeiman and @CodeMonkey
+
 [System.Serializable]
 public class Sound 
 {

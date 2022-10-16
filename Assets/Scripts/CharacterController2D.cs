@@ -1,6 +1,8 @@
 using UnityEngine;
 using UnityEngine.Events;
 
+//All scripts wrote and developed in conjuction with youtube.com @Brackeys, @JasonWeiman and @CodeMonkey
+
 public class CharacterController2D : MonoBehaviour
 {
 	[SerializeField] private float m_JumpForce = 400f;							// Amount of force added when the player jumps.

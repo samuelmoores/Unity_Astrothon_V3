@@ -2,6 +2,8 @@
 using System;
 using UnityEngine;
 
+//All scripts wrote and developed in conjuction with youtube.com @Brackeys, @JasonWeiman and @CodeMonkey
+
 public class AudioManager : MonoBehaviour
 {
 
